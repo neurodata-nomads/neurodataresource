@@ -30,7 +30,6 @@ intern>=0.9.4
     
 
 ### Demo
-It is **_highly_** recommended that you use **PyMEDA** inside Jupyter notebook, which allows **PyMEDA** visualizations to be easily embedded. However, **PyMEDA** also supports embedding in static HTML pages. 
 
-Please see [demo](https://github.com/neurodata-nomads/pymeda/blob/master/notebooks/Demo.ipynb "PyMEDA demo using iris dataset")
- here to view the usages using the iris dataset.
+Please see [demo](https://github.com/neurodata-nomads/neurodataresource/blob/master/NeuroDataResource_Doc_Notebook.ipynb "NeuroDataResource example")
+ here to view the usages.
